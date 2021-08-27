@@ -1,0 +1,32 @@
+.BannerInfo {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.DescriptionBanner{
+    width:45%;
+}
+
+.DescriptionBanner h3{
+    font-size: 1.2rem;
+}
+
+.DescriptionBanner p{
+    font-size: 0.7rem;
+}
+
+.DescriptionBanner button {
+    background-color: rgb(19, 88, 214);
+    color: white;
+    border:none;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+
+.ImgBanner{
+    background-color: blue;
+    width: 65%;
+    color: white;
+}

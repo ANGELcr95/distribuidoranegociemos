@@ -1,0 +1,41 @@
+.ExclusiveBrands{
+    background-color: rgb(223, 222, 222);
+    width: 100%;
+    height: 40vh;
+    color:black;
+    margin:auto ;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.ExclusiveBrandsImg{
+    width: 60%;
+    height: 20vh;
+    border: 1px solid black;
+    margin: 0 auto 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ExclusiveBrandsImg1{
+    width: 23%;
+    height: 100%;
+    border: 1px solid rgb(182, 32, 32);
+}
+.ExclusiveBrandsImg2{
+    width: 23%;
+    height: 100%;
+    border: 1px solid rgb(182, 32, 32);
+}
+.ExclusiveBrandsImg3{
+    width: 23%;
+    height: 100%;
+    border: 1px solid rgb(182, 32, 32);
+}
+.ExclusiveBrandsImg4{
+    width: 23%;
+    height: 100%;
+    border: 1px solid rgb(182, 32, 32);
+}

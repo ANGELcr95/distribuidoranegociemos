@@ -1,0 +1,41 @@
+.Information {
+    margin-top: 0;
+    width: 100%;
+    height: 10vh;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    font-size: 0.8rem;
+}
+.NetworkInformation {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.NetworkInformation p{
+    margin-left: 0.5rem;
+    padding-left: 0.5rem;
+    border-left: 0.2rem solid gray;
+}
+
+.NetworkInformation span{
+    margin-left: 0.5rem;
+    padding-left: 0.5rem;
+    border-left: 0.2rem solid gray;
+}
+.Loginbtn {
+
+}
+
+.Loginbtn button {
+    background-color: cornflowerblue;
+    color: white;
+    border:none;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}

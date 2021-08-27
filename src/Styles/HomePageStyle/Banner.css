@@ -1,0 +1,28 @@
+
+.Banner {
+    background-color: white;
+    width: 60%;
+    height: 50vh;
+    color:black;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.RedenderPageNumbers {
+    height: 20%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.RedenderPageNumbers button {
+   width: 2rem;
+   margin: auto 0.2rem;
+   height: 0.2rem;
+}
+
+.RedenderPageNumbers button:hover {
+   background-color: darkslategray;
+ }
+
